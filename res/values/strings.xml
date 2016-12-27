@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OnlyMusic</string>
+    <string name="dummy_content">0:00/00:00</string>
+    
+    <string name="replay_button">重新播放</string>
+    <string name="play_button">播放</string>
+    <string name="pause_button">暂停</string>
+
+</resources>
